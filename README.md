@@ -8,6 +8,7 @@ https://www.cnblogs.com/cangqinglang/p/12621432.html
 解压，放到C盘根目录下
  
  
+ 
 让aria2常开：
 命令行（CMD或者PowerShell）输入：
 C:\aria2\aria2c.exe --conf-path=C:\aria2\aria2c.conf
